@@ -16,3 +16,7 @@ hi there
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
 </div>
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/pruthviraj-cpu/pruthviraj-cpu/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
