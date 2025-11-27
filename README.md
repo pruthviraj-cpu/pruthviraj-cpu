@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=Pruthviraj+Gawande;Web+Developer;CSI+Web+Developer+Coordinator;Full+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=8000&color=00F3FF&center=true&vCenter=true&width=600&font-size=2rem&lines=Pruthviraj+Gawande;Web+Developer;CSI+Web+Developer+Coordinator;Full+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
@@ -10,9 +10,7 @@
 <h2 align="center" style="color:#00eaff;">
   ⚡ Creating Futuristic & Scalable Web Experiences ⚡
 </h2>
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="800">
-</p>
+
 
 ## 🚀 My Coding Stats
 <div align="center">
@@ -33,9 +31,9 @@
 </div>
 
 ## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pruthviraj-cpu/pruthviraj-cpu/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="800">
+</p>
 
 <p align="center">
   <a href="https://github.com/pruthviraj-cpu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
