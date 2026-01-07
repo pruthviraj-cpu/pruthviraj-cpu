@@ -11,13 +11,16 @@
   ⚡ Creating Futuristic & Scalable Web Experiences ⚡
 </h2>
 
-## 🧑‍💻 GitHub Overview
+## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-Strong-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-Real%20World-blue?style=for-the-badge" />
-</p>
+<div align="center">
+
+  <img 
+    src="https://metrics.lecoq.io/pruthviraj-cpu?template=classic&isocalendar=1&languages=1&lines=1&achievements=1&base.indepth=false&base.hireable=false&base.skip=false&languages.limit=5&languages.threshold=0%&languages.colors=github&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&theme=dark" 
+    alt="GitHub Metrics"
+  />
+
+</div>
 
 
 
