@@ -12,26 +12,35 @@
 </h2>
 
 
-## 🚀 My Coding Stats
+
+
+## 🚀 GitHub Activity & Stats
 
 <div align="center">
 
-  <!-- GitHub Overall Stats -->
+  <!-- GitHub Stats -->
   <img 
-       height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=pruthviraj-cpu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-       alt="Pruthviraj's GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=pruthviraj-cpu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    height="250" 
+    alt="Pruthviraj GitHub stats" 
+  />
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=pruthviraj-cpu&mode=daily&theme=tokyonight&hide_border=true" 
+    height="220" 
+    alt="Pruthviraj GitHub streak" 
   />
 
   <!-- Top Languages -->
   <img 
-       height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthviraj-cpu&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-       alt="Pruthviraj's top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthviraj-cpu&layout=compact&langs_count=5&card_width=320&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    height="150" 
+    alt="Pruthviraj top languages" 
   />
 
 </div>
->
+
 
 ## 🛠️ Tech Stack
 <div align="center">
