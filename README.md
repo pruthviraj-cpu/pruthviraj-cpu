@@ -11,16 +11,14 @@
   ⚡ Creating Futuristic & Scalable Web Experiences ⚡
 </h2>
 
+## 🧑‍💻 GitHub Overview
 
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Strong-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-Real%20World-blue?style=for-the-badge" />
+</p>
 
-
-## 🚀 GitHub Activity & Stats
-
-<div align="center">
-
- <img src="https://streak-stats.demolab.com?user=pruthviraj-cpu&locale=en&mode=daily&theme=darcula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-
-</div>
 
 
 ## 🛠️ Tech Stack
