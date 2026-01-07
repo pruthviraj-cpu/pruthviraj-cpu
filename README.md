@@ -13,10 +13,25 @@
 
 
 ## 🚀 My Coding Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pruthviraj-cpu&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthviraj-cpu&layout=compact&langs_count=7&theme=tokyonight"/>
+
+  <!-- GitHub Overall Stats -->
+  <img 
+       height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=pruthviraj-cpu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+       alt="Pruthviraj's GitHub stats"
+  />
+
+  <!-- Top Languages -->
+  <img 
+       height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthviraj-cpu&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+       alt="Pruthviraj's top languages"
+  />
+
 </div>
+>
 
 ## 🛠️ Tech Stack
 <div align="center">
