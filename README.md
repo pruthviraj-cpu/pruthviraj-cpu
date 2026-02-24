@@ -15,10 +15,12 @@
 
 <div align="center">
 
+<div align="center">
   <img 
-    src="https://metrics.lecoq.io/pruthviraj-cpu?template=classic&isocalendar=1&languages=1&lines=1&achievements=1&base.indepth=false&base.hireable=false&base.skip=false&languages.limit=5&languages.threshold=0%&languages.colors=github&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&theme=dark" 
-    alt="GitHub Metrics"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pruthviraj-cpu&theme=github-dark&hide_border=true&border_radius=12"
+    width="400"
   />
+</div>
 
 </div>
 
